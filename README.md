@@ -4,9 +4,10 @@
 ### The Featherweight, Privacy-First Desktop AI Ecosystem
 
 [![PyPI version](https://img.shields.io/pypi/v/ghostos-ai.svg?color=blue)](https://pypi.org/project/ghostos-ai/)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Upcoming%20Launch-da552f?logo=producthunt&logoColor=white)](https://www.producthunt.com/products/ghostos?launch=ghostos)
 [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Win%20%7C%20Linux-brightgreen.svg)](https://github.com/GhostOS-ai/GhostOS)
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Offline-orange.svg)](https://github.com/GhostOS-ai/GhostOS)
-[![GitHub Stars](https://img.shields.io/github/stars/GhostOS-ai/GhostOS?style=social)](https://github.com/GhostOS-ai/GhostOS)
+[![GitHub Stars](https://badgen.net/github/stars/GhostOS-ai/GhostOS?icon=github&color=yellow)](https://github.com/GhostOS-ai/GhostOS)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Author: KIB.best](https://img.shields.io/badge/Author-KIB.best-8A2BE2.svg)](https://kib.best)
 [![Email](https://img.shields.io/badge/Contact-GhostOS%40kib.best-0071e3.svg)](mailto:GhostOS@kib.best)
