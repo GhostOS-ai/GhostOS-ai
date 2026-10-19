@@ -9,7 +9,7 @@
 [![Privacy](https://img.shields.io/badge/Privacy-100%25%20Offline-orange.svg)](https://github.com/GhostOS-ai/GhostOS)
 [![GitHub Stars](https://badgen.net/github/stars/GhostOS-ai/GhostOS?icon=github&color=yellow)](https://github.com/GhostOS-ai/GhostOS)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Author: KIB.best](https://img.shields.io/badge/Author-KIB.best-8A2BE2.svg)](https://kib.best)
+[![Author: KIB.best](https://img.shields.io/badge/Author-KIB.best-8A2BE2.svg)](https://github.com/GhostOS-ai/GhostOS)
 [![Email](https://img.shields.io/badge/Contact-GhostOS%40kib.best-0071e3.svg)](mailto:GhostOS@kib.best)
 
 ---
@@ -56,9 +56,9 @@ ghost pet
 
 - **Repository:** [github.com/GhostOS-ai/GhostOS](https://github.com/GhostOS-ai/GhostOS)
 - **PyPI Package:** [pypi.org/project/ghostos-ai](https://pypi.org/project/ghostos-ai/)
-- **Author:** [KIB.best](https://kib.best)
+- **Author:** [KIB.best](https://github.com/GhostOS-ai/GhostOS)
 - **Contact:** [GhostOS@kib.best](mailto:GhostOS@kib.best)
 
 <div align="center">
-<sub>Crafted with passion by <a href="https://kib.best">KIB.best</a> • Released under the MIT License</sub>
+<sub>Crafted with passion by <a href="https://github.com/GhostOS-ai/GhostOS">KIB.best</a> • Released under the MIT License</sub>
 </div>
