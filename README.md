@@ -31,6 +31,11 @@ ghost pet
 
 #### ✨ Highlights
 - **⚡️ Native WebViews:** Featherweight GUI idling at `<35MB RAM` (no Electron bloat).
+- **🍕 Casper Feeder:** Interactive Drag & Drop ingestion with chewing wobble animation for source code, logs, and PDFs.
+- **🎨 Wardrobe Skins:** 4 gorgeous themes for Casper (`--skin glass`, `cyberpunk`, `gold`, `matrix`).
+- **👻 Native Menu Bar Tray:** Zero-overhead macOS menu bar controller (`ghost bar` / `ghost pet --tray`).
+- **🔍 Instant Spotlight HUD:** Floating Raycast-style offline query bar (`ghost spot`).
+- **🤖 Local Model Catalog:** Auto-detects Ollama models, memory footprints, and Apple Silicon Metal / CUDA acceleration (`ghost models`).
 - **🧠 Dynamic VRAM Juggler:** Hot-swaps LLM, Vision, and Whisper in `<150ms`, keeping peak VRAM `≤3.5GB`.
 - **📂 Zero-DB RAG:** Instant file search & chat powered by pure **SQLite FTS5**.
 - **✍️ Ghostwriter:** Inline text completion & tone rewrite across all apps via clipboard.
@@ -44,6 +49,10 @@ ghost pet
 | Command | Action |
 | :--- | :--- |
 | `ghost pet` | Launch floating Casper pet & Spotlight HUD |
+| `ghost pet --skin cyberpunk --tray` | Launch Casper with Neon skin & Menu Bar icon |
+| `ghost spot` | Instant centered Spotlight HUD query bar |
+| `ghost bar` | Launch native macOS Menu Bar tray controller |
+| `ghost models` | Inspect local models & hardware acceleration |
 | `ghost "your question"` | Instant offline question answering |
 | `ghost eat ./notes/` | Feed local documents to Zero-DB RAG |
 | `ghost write --mode polite` | Rewrite clipboard text in polite tone |
