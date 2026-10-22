@@ -25,7 +25,11 @@
 An ultra-lightweight desktop AI companion and copilot that runs smoothly on standard laptops and base Apple Silicon Macs (4GB–8GB RAM) without out-of-memory (OOM) crashes.
 
 ```bash
-pip install ghostos-ai
+# One-line terminal installer (macOS & Linux)
+curl -fsSL https://raw.githubusercontent.com/GhostOS-ai/GhostOS/main/install.sh | bash
+
+# Or install via pip & launch
+pip install --upgrade ghostos-ai
 ghost pet
 ```
 
